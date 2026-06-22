@@ -134,11 +134,3 @@ Customer-Churn-Prediction/
 * Deploying the model using Streamlit or Flask
 
 ---
-
-## Author
-
-Rithiga C V
-
-Artificial Intelligence and Data Science Student
-
-Passionate about Machine Learning, Data Science, and AI-driven solutions.
